@@ -6,8 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ApplicationLogger\ApplicationLogger.csproj" />
     <ProjectReference Include="..\cConstructorChaining\cConstructorChaining.csproj" />
     <ProjectReference Include="..\ExceptionHandler\ExceptionHandler.csproj" />
+    <ProjectReference Include="..\ParallelExecution\ParallelExecution.csproj" />
   </ItemGroup>
 
 </Project>

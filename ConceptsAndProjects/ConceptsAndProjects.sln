@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cConstructorChaining", "cCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandler", "ExceptionHandler\ExceptionHandler.csproj", "{E4BA1A3A-3802-446F-8567-2B484B298F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLogger", "ApplicationLogger\ApplicationLogger.csproj", "{59B862D9-0531-46AB-A187-458A7D331D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelExecution", "ParallelExecution\ParallelExecution.csproj", "{71EE8AEA-97FE-49A6-8874-4496BE057056}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E4BA1A3A-3802-446F-8567-2B484B298F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4BA1A3A-3802-446F-8567-2B484B298F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4BA1A3A-3802-446F-8567-2B484B298F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B862D9-0531-46AB-A187-458A7D331D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B862D9-0531-46AB-A187-458A7D331D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B862D9-0531-46AB-A187-458A7D331D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B862D9-0531-46AB-A187-458A7D331D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

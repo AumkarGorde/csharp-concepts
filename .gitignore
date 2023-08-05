@@ -10,3 +10,7 @@
 /ConceptsAndProjects/ExceptionHandler/bin/Debug/netstandard2.0
 /ConceptsAndProjects/ExceptionHandler/obj
 /ConceptsAndProjects/ProgramRunner/bin/Debug/netcoreapp3.1
+/ConceptsAndProjects/ApplicationLogger/bin/Debug/netstandard2.0
+/ConceptsAndProjects/ApplicationLogger/obj
+/ConceptsAndProjects/ParallelExecution/bin/Debug/netstandard2.0
+/ConceptsAndProjects/ParallelExecution/obj

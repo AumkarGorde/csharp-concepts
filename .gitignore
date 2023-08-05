@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ConceptsAndProjects/.vs/ConceptsAndProjects/v16
+/ConceptsAndProjects/ProgramRunner/obj
+/ConceptsAndProjects/cConstructorChaining/bin/Debug/netstandard2.0
+/ConceptsAndProjects/cConstructorChaining/obj
+/ConceptsAndProjects/ExceptionHandler/bin/Debug/netstandard2.0
+/ConceptsAndProjects/ExceptionHandler/obj
+/ConceptsAndProjects/ProgramRunner/bin/Debug/netcoreapp3.1

@@ -14,3 +14,9 @@
 /ConceptsAndProjects/ApplicationLogger/obj
 /ConceptsAndProjects/ParallelExecution/bin/Debug/netstandard2.0
 /ConceptsAndProjects/ParallelExecution/obj
+/ConceptsAndProjects/.vs
+/ConceptsAndProjects/BechMark7/bin/Release/net7.0
+/ConceptsAndProjects/BechMark7/obj/Debug/net7.0
+/ConceptsAndProjects/BechMark7/obj
+/ConceptsAndProjects/BechMarkDemo/bin/Release
+/ConceptsAndProjects/BechMarkDemo/obj

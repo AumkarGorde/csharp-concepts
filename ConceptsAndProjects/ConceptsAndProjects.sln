@@ -1,17 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramRunner", "ProgramRunner\ProgramRunner.csproj", "{945EE5BE-D02D-44BE-955E-F909D131F975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramRunner", "ProgramRunner\ProgramRunner.csproj", "{945EE5BE-D02D-44BE-955E-F909D131F975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cConstructorChaining", "cConstructorChaining\cConstructorChaining.csproj", "{C698ECEE-3C3C-428B-8AA6-12EC0DEBFBBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cConstructorChaining", "cConstructorChaining\cConstructorChaining.csproj", "{C698ECEE-3C3C-428B-8AA6-12EC0DEBFBBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandler", "ExceptionHandler\ExceptionHandler.csproj", "{E4BA1A3A-3802-446F-8567-2B484B298F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandler", "ExceptionHandler\ExceptionHandler.csproj", "{E4BA1A3A-3802-446F-8567-2B484B298F72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLogger", "ApplicationLogger\ApplicationLogger.csproj", "{59B862D9-0531-46AB-A187-458A7D331D7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationLogger", "ApplicationLogger\ApplicationLogger.csproj", "{59B862D9-0531-46AB-A187-458A7D331D7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelExecution", "ParallelExecution\ParallelExecution.csproj", "{71EE8AEA-97FE-49A6-8874-4496BE057056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelExecution", "ParallelExecution\ParallelExecution.csproj", "{71EE8AEA-97FE-49A6-8874-4496BE057056}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BechMarkDemo", "BechMarkDemo\BechMarkDemo.csproj", "{830F804B-858B-43F1-8ABE-13104652F0A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BechMark7", "BechMark7\BechMark7.csproj", "{E9B63B94-E8B3-47F1-ACBA-62058931226A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71EE8AEA-97FE-49A6-8874-4496BE057056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830F804B-858B-43F1-8ABE-13104652F0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830F804B-858B-43F1-8ABE-13104652F0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830F804B-858B-43F1-8ABE-13104652F0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830F804B-858B-43F1-8ABE-13104652F0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B63B94-E8B3-47F1-ACBA-62058931226A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B63B94-E8B3-47F1-ACBA-62058931226A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B63B94-E8B3-47F1-ACBA-62058931226A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B63B94-E8B3-47F1-ACBA-62058931226A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

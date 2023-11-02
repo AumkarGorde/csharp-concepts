@@ -22,3 +22,7 @@
 /ConceptsAndProjects/BechMarkDemo/obj
 /C#Design/MainSolution/.vs
 /C#Design/MainSolution/MainSolution/obj
+/C#Design/MainSolution/DependencyInversionPrinciple/obj
+/C#Design/MainSolution/InterfaceSegregationPrinciple/obj
+/C#Design/MainSolution/LiskovSubstitutionPrinciple/obj
+/C#Design/MainSolution/OpenClosePrinciple/obj

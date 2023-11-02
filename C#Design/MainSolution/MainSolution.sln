@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "MainSolution\SingleResponsibility.csproj", "{DB574559-0975-4341-85C2-C042F675BAFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosePrinciple", "OpenClosePrinciple\OpenClosePrinciple.csproj", "{084BB814-5B54-4031-987C-884083ED2908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenClosePrinciple\OpenClosePrinciple.csproj", "{084BB814-5B54-4031-987C-884083ED2908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{A5A8E622-F4E0-46F5-863B-07ECC1AFC3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{A5A8E622-F4E0-46F5-863B-07ECC1AFC3CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{4CF0B0E5-25F5-4AC1-8F4E-806DB7DD5A44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{4CF0B0E5-25F5-4AC1-8F4E-806DB7DD5A44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{BCD077F5-6FDD-492F-AF2B-7F35384D9722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{BCD077F5-6FDD-492F-AF2B-7F35384D9722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "SingleResponsibilityPrinciple\SingleResponsibility.csproj", "{6D9B9FD7-6510-4F1A-B36B-011969289929}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DB574559-0975-4341-85C2-C042F675BAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB574559-0975-4341-85C2-C042F675BAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB574559-0975-4341-85C2-C042F675BAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB574559-0975-4341-85C2-C042F675BAFF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{084BB814-5B54-4031-987C-884083ED2908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{084BB814-5B54-4031-987C-884083ED2908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{084BB814-5B54-4031-987C-884083ED2908}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{BCD077F5-6FDD-492F-AF2B-7F35384D9722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD077F5-6FDD-492F-AF2B-7F35384D9722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD077F5-6FDD-492F-AF2B-7F35384D9722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,3 +27,14 @@
 /C#Design/MainSolution/LiskovSubstitutionPrinciple/obj
 /C#Design/MainSolution/OpenClosePrinciple/obj
 /C#Design/MainSolution/SingleResponsibilityPrinciple/obj
+/C#Design/DesignPatterns/.vs
+/C#Design/DesignPatterns/BehavioralPattern/bin/Debug/net6.0
+/C#Design/DesignPatterns/BehavioralPattern/obj
+/C#Design/DesignPatterns/CreationalDesignPattern/bin/Debug/net6.0
+/C#Design/DesignPatterns/CreationalDesignPattern/obj
+/C#Design/DesignPatterns/StructuralDesignPattern/bin/Debug/net6.0
+/C#Design/DesignPatterns/StructuralDesignPattern/obj
+/C#Design/MainSolution/DotnetFundamentals/bin/Debug/net6.0
+/C#Design/MainSolution/DotnetFundamentals/obj
+/C#Design/MainSolution/OOPS/bin/Debug/net6.0
+/C#Design/MainSolution/OOPS/obj

@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrincipl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibility", "SingleResponsibilityPrinciple\SingleResponsibility.csproj", "{6D9B9FD7-6510-4F1A-B36B-011969289929}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPS", "OOPS\OOPS.csproj", "{740F2851-D2BD-4BE4-8852-E8313A911B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetFundamentals", "DotnetFundamentals\DotnetFundamentals.csproj", "{B8125A60-439C-4BF2-811C-CCFF176E6DB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D9B9FD7-6510-4F1A-B36B-011969289929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740F2851-D2BD-4BE4-8852-E8313A911B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740F2851-D2BD-4BE4-8852-E8313A911B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740F2851-D2BD-4BE4-8852-E8313A911B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740F2851-D2BD-4BE4-8852-E8313A911B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8125A60-439C-4BF2-811C-CCFF176E6DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8125A60-439C-4BF2-811C-CCFF176E6DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8125A60-439C-4BF2-811C-CCFF176E6DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8125A60-439C-4BF2-811C-CCFF176E6DB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
